@@ -1,0 +1,60 @@
+body{
+    background-image: url(Images/bgform.jpg);
+    width: auto;
+    height: auto;
+}
+.main{
+    width: 520px;
+    height: 750px;
+    background: #000;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    border-style: inset;
+    padding-left: 10px;
+    }
+h2{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+}
+#fname{
+    width: 48%;
+}
+#lname{
+    width: 48%;
+}
+#address{
+    width: 97%;
+}
+#address1{
+    width: 48%;
+}
+#address2{
+    width: 48%;
+}
+#address3{
+    width: 48%;
+}
+#address4{
+    width: 48%;
+}
+#email{
+    width: 97%;
+}
+#phone{
+    width: 50%;
+}
+.float{
+    float: left;
+}
+.float1{
+    position: absolute;
+    left: 50%;
+}
+.button{
+    text-align: center;
+}
